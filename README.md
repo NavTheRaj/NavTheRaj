@@ -13,7 +13,7 @@
 
 ### - Hello Everyone. I am a Code Learner and Problem Solver.
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/anime_intro.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about-me.gif">
 
 ### - Learning :
 - ✨ Deep Learning
