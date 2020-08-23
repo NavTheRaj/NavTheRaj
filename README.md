@@ -64,18 +64,20 @@
 
 <img height="250" width="450" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/contact.gif">
 <a href="mailto:navrajkhanal61@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/navraj-khanal1997/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" height="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
 </br>
+</br>
+</br>
+</a>
 
 <a href="mailto:navrajkhanal61@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/navraj-khanal1997/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
-</br>
+  <img align="left" alt="Linkedin" width="150" height="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
 </br>
 </a>
  </p>
