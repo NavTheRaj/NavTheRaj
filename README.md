@@ -73,11 +73,11 @@
 </br>
 </a>
 
-<a href="mailto:navrajkhanal61@gmail.com">
- <img align="left" alt="Gmail" width="130" height="40" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
+<a href="https://www.reddit.com/user/NavTheRaj">
+ <img align="left" alt="Gmail" width="130" height="40" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/reddit.png" />
 </a>
-<a href="https://www.linkedin.com/in/navraj-khanal1997/">
-  <img align="left" alt="Linkedin" width="150" height="40" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
+<a href="https://www.youtube.com/channel/UC6yxBsW6hHTcZXfqBBS60dw?view_as=subscriber">
+  <img align="left" alt="Linkedin" width="150" height="40" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/youtube.png" />
 </br>
 </a>
  </p>
