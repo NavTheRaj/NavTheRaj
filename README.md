@@ -13,7 +13,7 @@
 
 ### - Hello Everyone. I am a Code Learner and Problem Solver.
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about-me.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
 
 ### - Learning :
 - ✨ Deep Learning
@@ -62,7 +62,7 @@
  </br>
 
 
-<img height="320" width="450" align="right" alt="GIF" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/anime-contact.gif">
+<img height="320" width="450" align="right" alt="GIF" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/contact.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
