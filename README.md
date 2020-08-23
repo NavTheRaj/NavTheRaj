@@ -62,7 +62,7 @@
  </br>
 
 
-<img hight="300" width="700" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/contact.gif">
+<img hight="320" width="450" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/contact.gif">
 <a href="mailto:navrajkhanal61@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
 </a>
