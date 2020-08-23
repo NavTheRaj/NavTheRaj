@@ -63,10 +63,10 @@
 
 
 <a href="mailto:navrajkhanal61@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
+ <img align="" alt="Gmail" width="130" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/navraj-khanal1997/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
+  <img align="" alt="Linkedin" width="150" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
