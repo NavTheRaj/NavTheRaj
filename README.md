@@ -13,7 +13,7 @@
 
 ### - Hello Everyone. I am a Code Learner and Problem Solver.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/giphy.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
 
 ### - Learning :
 - ✨ Deep Learning
@@ -58,15 +58,16 @@
 
 # Contact Me :
 
-<p align="center">
+<p>
  </br>
 
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/contact.gif">
 <a href="mailto:navrajkhanal61@gmail.com">
- <img align="" alt="Gmail" width="130" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/navraj-khanal1997/">
-  <img align="" alt="Linkedin" width="150" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
