@@ -1,7 +1,7 @@
 # Hello 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/anime_intro.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/anime_intro.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - Hello Everyone. I am a Code Learner and Problem Solver.
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
 
 ### - Learning :
 - ✨ Deep Learning
@@ -62,11 +62,7 @@
  </br>
 
 
-<img height="320" width="450" align="right" alt="GIF" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/contact.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/contact.gif">
 <a href="mailto:navrajkhanal61@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
 </a>
