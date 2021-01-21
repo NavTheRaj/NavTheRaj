@@ -19,7 +19,8 @@
 - ✨ Deep Learning
 - ✨ Docker
 - ✨ Django Framework
-- ✨ Android Mobile Application
+- ✨ React / React Native
+- ✨ Node JS
 
 
 ### - Hobbies : 
