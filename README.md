@@ -74,13 +74,6 @@
 </br>
 </a>
 
-<a href="https://www.reddit.com/user/NavTheRaj">
- <img align="left" alt="Reddit" width="130" height="40" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://www.youtube.com/channel/UC6yxBsW6hHTcZXfqBBS60dw?view_as=subscriber">
-  <img align="left" alt="YouTube" width="150" height="40" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/youtube.png" />
-</br>
-</a>
  </p>
  
 
