@@ -16,10 +16,9 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
 
 ### - Learning :
-- ✨ Deep Learning
+- ✨ Spring Boot
 - ✨ Docker
-- ✨ Django Framework
-- ✨ React / React Native
+- ✨ React 
 - ✨ Node JS
 
 
