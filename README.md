@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - Hello Everyone. I am a Code Learner and Problem Solver.
+### - Hello Everyone. I am a Learner and Problem Solver.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
 
