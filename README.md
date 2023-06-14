@@ -83,7 +83,7 @@
 </br>
 </br>
 <div align="center">
-  ![Snake animation](https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/snake-skeleton.svg)
+  ![Snake animation](https://github.com/NavTheRaj/NavTheRaj/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ###
