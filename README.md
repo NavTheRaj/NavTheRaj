@@ -83,10 +83,7 @@
 </br>
 </br>
 <div align="center">
-<!--   ![snake gif](https://github.com/navtheraj/navtheraj/blob/output/github-contribution-grid-snake.gif) -->
-  <picture>
-  <img alt="github-snake" src="https://github.com/NavTheRaj/NavTheRaj/blob/output/github-contribution-grid-snake.gif" />
-</picture>
+![NavTheRaj snake gif](https://github.com/NavTheRaj/NavTheRaj/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ###
