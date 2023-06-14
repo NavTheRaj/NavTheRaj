@@ -71,27 +71,7 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
-
-<!-- <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=NavTheRaj&&show_icons=true&theme=radical"/>
-  </a>
-  </p> -->
-  
-  
-  
-
-
-</br>
-</br>
-</br>
-</br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=navtheraj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -100,8 +80,7 @@
 </br>
 </br>
 <div align="center">
-<!--   ![Snake animation](https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/snake-skeleton.svg) -->
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/snake-skeleton.svg)
 </div>
 
 ###
