@@ -104,7 +104,7 @@
 ###
 
 
-</br>
+<!-- </br>
 </br>
 </br>
 </br>
@@ -116,6 +116,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/navtheraj/navtheraj/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 *************
