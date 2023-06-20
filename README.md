@@ -1,7 +1,7 @@
 # Hello 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/anime_intro.gif">
+<img height="400" width="700" alt="GIF" align="center" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/anime_intro.gif">
 </div>
 
 </br>
