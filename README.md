@@ -13,7 +13,7 @@
 
 ### - Hello Everyone. I am a Learner and Problem Solver.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
 
 ### - Learning :
 - ✨ Spring Boot
@@ -75,13 +75,18 @@
 </br>
 </br>
 </br>
-
+</br>
+</br>
+</br>
+</br>
+</br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=navtheraj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 </br>
 </br>
 </br>
+
 <div align="center">
 <img src="https://github.com/NavTheRaj/NavTheRaj/blob/18f46cc90bbc9a7f055eb6420613e1e7403405b5/github-contribution-grid-snake.svg"/>
 </div>
