@@ -1,7 +1,7 @@
 # Hello 👋
 
 <div align="center">
-<img style = "aspect-ratio: auto;" alt="GIF" align="center" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/anime_intro.gif">
+<img style = "aspect-ratio: 1 / 1;" alt="GIF" align="center" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/anime_intro.gif">
 </div>
 
 </br>
