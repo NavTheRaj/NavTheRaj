@@ -13,7 +13,7 @@
 
 ### - Hello Everyone. I am a Learner and Problem Solver.
 
-<img style = "aspect-ratio: 1 / 1;" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
+<img style = "aspect-ratio: 0.5;" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
 
 ### - Learning :
 - ✨ Spring Boot
