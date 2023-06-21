@@ -13,7 +13,7 @@
 
 ### - Hello Everyone. I am a Learner and Problem Solver.
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
+<img style = "aspect-ratio: 1 / 1;" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
 
 ### - Learning :
 - ✨ Spring Boot
@@ -38,7 +38,9 @@
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,angular,react,nodejs,html,css,mysql,mongodb,aws,azure,docker,kubernetes,vscode,git,github,eclipse,idea&perline=10&theme=dark" />
+    <img 
+      style = "aspect-ratio: 1 / 1;"
+      src="https://skillicons.dev/icons?i=java,python,javascript,spring,angular,react,nodejs,html,css,mysql,mongodb,aws,azure,docker,kubernetes,vscode,git,github,eclipse,idea&perline=10&theme=dark" />
   </a>
 </p>
 </br>
