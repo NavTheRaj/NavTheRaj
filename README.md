@@ -43,7 +43,12 @@
 ## Connect with Me 📫
 
 <p align="center">
-HERE
+  <a href="mailto:navrajkhanal61@gmail.com">
+  <img alt="Email" width="130" height="40" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/navrajkhanal/">
+  <img alt="LinkedIn" width="150" height="40" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
+  </a>
 </p>
 
 ---
