@@ -52,13 +52,17 @@
   </a>
 </div>
 
-<div></div>
 ---
+
+## My Stats 📊
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=navtheraj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ---
+
+## Watch my streak being eaten by a Python 🐍
 
 <div align="center">
   <img src="https://github.com/NavTheRaj/NavTheRaj/blob/18f46cc90bbc9a7f055eb6420613e1e7403405b5/github-contribution-grid-snake.svg"/>
