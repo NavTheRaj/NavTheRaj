@@ -8,7 +8,7 @@
 
 ## About Me 💬
 
-- Hello everyone! I'm [Your Name], a passionate learner and problem solver.
+- Hello everyone! I'm Navraj , a passionate learner and problem solver.
 
 <img style="aspect-ratio: 1 / 1;" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/about_me.gif">
 
@@ -44,10 +44,10 @@
 
 <p>
   <img height="250" width="400" alt="GIF" align="right" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/contact.gif">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:navrajkhanal61@gmail.com">
     <img align="left" alt="Email" width="130" height="40" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/gmail.png" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile/">
+  <a href="https://www.linkedin.com/in/navrajkhanal/">
     <img align="left" alt="LinkedIn" width="150" height="40" src="https://github.com/NavTheRaj/NavTheRaj/blob/master/assets/icons/linkedin.png" />
   </a>
 </p>
