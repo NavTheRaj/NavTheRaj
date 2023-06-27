@@ -40,9 +40,11 @@
 
 ---
 
-## Connection Section
+## Connect with Me 📫
 
-<p>Connection Here</p>
+<p align="center">
+HERE
+</p>
 
 ---
 
