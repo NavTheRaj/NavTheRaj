@@ -40,6 +40,12 @@
 
 ---
 
+## Connection Section
+
+<p>Connection Here</p>
+
+---
+
 ## My Stats 📊
 
 <p align="center">
