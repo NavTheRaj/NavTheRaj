@@ -51,6 +51,8 @@
   </a>
 </p>
 
+---
+
 ## My Stats 📊
 
 <p align="center">
