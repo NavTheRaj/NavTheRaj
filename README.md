@@ -15,9 +15,9 @@
 ## Learning ✨
 
 - Currently, I'm focused on expanding my knowledge in the following technologies:
-  - Spring Boot
+  - C#/ .NET
   - Docker
-  - React
+  - React / Next JS
   - Node.js
 
 ## Hobbies 🎯
